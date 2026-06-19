@@ -3,7 +3,7 @@
     "Author": "veyn",
     "Name": "vsatisfy",
     "InternalName": "vsatisfy",
-    "AssemblyVersion": "0.0.0.32",
+    "AssemblyVersion": "0.0.0.37",
     "Description": "自动老主顾交付（制作/采集）",
     "ApplicableVersion": "any",
     "Tags": ["Custom Deliveries", "Automation", "Satisfaction"],
@@ -13,7 +13,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "自动老主顾交付（制作/采集）",
-    "DownloadLinkInstall": "https://github.com/llm1016/ffxiv_satisfy/releases/download/v0.0.0.32/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/llm1016/ffxiv_satisfy/releases/download/v0.0.0.32/latest.zip"
+    "DownloadLinkInstall": "https://github.com/llm1016/ffxiv_satisfy/releases/download/v0.0.0.37/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/llm1016/ffxiv_satisfy/releases/download/v0.0.0.37/latest.zip"
   }
 ]
