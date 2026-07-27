@@ -30,7 +30,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "自动执行各种繁琐任务（汉化版）",
-    "DownloadLinkInstall": "https://github.com/llm1016/HenchmanCN/releases/download/v3.0.1.2/HenchmanCN_v3.0.1.2.zip",
-    "DownloadLinkUpdate": "https://github.com/llm1016/HenchmanCN/releases/download/v3.0.1.2/HenchmanCN_v3.0.1.2.zip"
+    "DownloadLinkInstall": "https://github.com/llm1016/HenchmanCN/releases/download/v3.0.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/llm1016/HenchmanCN/releases/download/v3.0.1.2/latest.zip"
   }
 ]
