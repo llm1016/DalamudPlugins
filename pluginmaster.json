@@ -15,4 +15,22 @@
     "Punchline": "自动老主顾交付（制作/采集）",
     "DownloadLinkInstall": "https://github.com/llm1016/ffxiv_satisfy/releases/download/v0.0.0.37/latest.zip",
     "DownloadLinkUpdate": "https://github.com/llm1016/ffxiv_satisfy/releases/download/v0.0.0.37/latest.zip"
- 
+  },
+  {
+    "Author": "Knightmore",
+    "Name": "HenchmanCN",
+    "InternalName": "Henchman",
+    "AssemblyVersion": "3.0.1.2",
+    "Description": "自动执行各种繁琐任务：狩猎日志、讨伐单、雇员创建、A/B级狩猎、陆行鸟传送解锁、角色创建、海钓升级、多角色交易等（汉化版）",
+    "ApplicableVersion": "any",
+    "Tags": ["Automation", "Hunt", "Retainer", "Fishing"],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "自动执行各种繁琐任务（汉化版）",
+    "DownloadLinkInstall": "https://github.com/llm1016/HenchmanCN/releases/download/v3.0.1.2/HenchmanCN_v3.0.1.2.zip",
+    "DownloadLinkUpdate": "https://github.com/llm1016/HenchmanCN/releases/download/v3.0.1.2/HenchmanCN_v3.0.1.2.zip"
+  }
+]
